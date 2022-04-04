@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WattsWebDev
+- 👋 Hi, I’m Jakia
 - 👀 I’m interested in Anime 
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on ...
