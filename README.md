@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jakia
-- 👀 I’m interested in Anime 
-- 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Anime and learning more about web development
+- 🌱 I’m currently learning JavaScript and bettering my understanding of CSS
+- 💞️ I’m looking to collaborate on fun projects that manipulate the DOM
 - 📫 How to reach me ...
 
 <!---
